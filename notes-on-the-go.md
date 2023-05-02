@@ -5,7 +5,7 @@ talking about misurable goals, the first thing in the plan is to support the res
 
 # ontology development. PHASE 1
 1. the domain: co-design practices for change
-co-design: implies the presence of actors as citizens, professionists and stakeholders interacting in a precise environment. 
+co-design: implies the presence of actors as citizens, professionals and stakeholders interacting in a precise environment. 
 - to do:  tools and metodologies used in various contexts (from enterprises, to ruangrupa in documenta for examples).
 
 to search for existing ontologies in this domain, we search for them in:
